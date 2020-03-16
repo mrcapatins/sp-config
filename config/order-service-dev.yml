@@ -5,8 +5,8 @@ spring:
     config:
       override-none: true
     
-#server:
-#  port: 8201
+server:
+  port: 8201
   
   
 eureka:
